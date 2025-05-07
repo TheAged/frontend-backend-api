@@ -9,7 +9,7 @@
  
  註冊頁面（Register.vue--> 	使用者輸入資料後以 axios.post() 傳送到 /api/register
 
- 登入頁面（Login.vue)--> 		驗證登入資訊，成功則跳轉到 /userhome
+ 登入頁面（Login.vue)--> 		驗證登入資訊，成功則跳轉到 /control
 
 
 
